@@ -1,4 +1,4 @@
-{% assign pagebreak = "<div style="page-break-after: always"></div>\n" %}
+{% assign pagebreak = "" %}
 {% comment %} encoding: utf-8 {% endcomment %}
 
 # Pruebas
@@ -11,12 +11,10 @@ Esto es una prueba
 
 [Ficha de busqueda (seccion)](ficha_de_busqueda/_seccion.md)
 
-Aqui el salto de pagina
+Aqui el salto de pagina... a ver...1...
 
 {{pagebreak /}}
 
 Y Aqui el comienzo de la otra pagina.
-
-<div style="page-break-after: always"></div>
 
 Fin....
