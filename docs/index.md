@@ -1,3 +1,4 @@
+{% assign pagebreak = "<div></div>" %}
 {% comment %} encoding: utf-8 {% endcomment %}
 
 # Pruebas
@@ -9,3 +10,7 @@ Esto es una prueba
 <a href="ficha_de_busqueda/introduccion.md">Ficha de busqueda (intro) 2</a>
 
 [Ficha de busqueda (seccion)](ficha_de_busqueda/_seccion.md)
+
+{{ pagebreak }}
+
+Fin....
