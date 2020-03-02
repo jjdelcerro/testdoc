@@ -1,4 +1,3 @@
-{% assign pagebreak = "" %}
 {% comment %} encoding: utf-8 {% endcomment %}
 
 # Pruebas
@@ -11,7 +10,7 @@ Esto es una prueba
 
 [Ficha de busqueda (seccion)](ficha_de_busqueda/_seccion.md)
 
-Aqui el salto de pagina... a ver...1...
+Aqui el salto de pagina... a ver...1...2...
 
 {{pagebreak /}}
 
