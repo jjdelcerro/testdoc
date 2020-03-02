@@ -13,7 +13,7 @@ Esto es una prueba
 
 Aqui el salto de pagina
 
-{{ pagebreak }}
+{{pagebreak /}}
 
 Y Aqui el comienzo de la otra pagina.
 
