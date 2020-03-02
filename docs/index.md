@@ -17,4 +17,6 @@ Aqui el salto de pagina
 
 Y Aqui el comienzo de la otra pagina.
 
+<div style="page-break-after: always"></div>
+
 Fin....
