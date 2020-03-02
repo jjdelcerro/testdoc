@@ -1,4 +1,4 @@
-{% assign pagebreak = "<div></div>" %}
+{% assign pagebreak = "<div style="page-break-after: always"></div>\n" %}
 {% comment %} encoding: utf-8 {% endcomment %}
 
 # Pruebas
