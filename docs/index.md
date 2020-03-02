@@ -12,7 +12,9 @@ Esto es una prueba
 [Ficha de busqueda (seccion)](ficha_de_busqueda/_seccion.md)
 
 Aqui el salto de pagina
+
 {{ pagebreak }}
+
 Y Aqui el comienzo de la otra pagina.
 
 Fin....
