@@ -1,4 +1,5 @@
-<<< rem encoding: utf-8 >>>
+{% assign rem = "encoding: utf-8" %}
+
 
 # Pruebas
 
