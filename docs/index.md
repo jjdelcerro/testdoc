@@ -1,3 +1,4 @@
+<<< rem encoding: utf-8 >>>
 
 # Pruebas
 
