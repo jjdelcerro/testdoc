@@ -1,4 +1,4 @@
-{% assign tobi = "Tobi" %}
+{% comment %} encoding: utf-8 {% endcomment %}
 
 # Pruebas
 
