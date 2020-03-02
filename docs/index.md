@@ -1,8 +1,4 @@
----
-encoding: utf-8 
----
-
-
+[rem encoding: utf-8 ]
 
 # Pruebas
 
