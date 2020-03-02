@@ -1,4 +1,4 @@
-[rem encoding: utf-8 ]()
+[](rem )
 
 # Pruebas
 
