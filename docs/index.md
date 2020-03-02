@@ -1,5 +1,4 @@
-(empty line)
-[comment]: # (This actually is the most platform independent comment)
+{% assign tobi = "Tobi" %}
 
 # Pruebas
 
