@@ -1,4 +1,6 @@
 
+Añadido lo del width
+
 La ficha de búsqueda presenta la siguiente lista de características:
 
 - Permite dar un orden especial a los datos, recomendados o más usados.
